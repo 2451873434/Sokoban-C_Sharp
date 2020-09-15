@@ -1,0 +1,11 @@
+D:\C#代码\Sokoban\obj\Debug\Sokoban.Form1.resources
+D:\C#代码\Sokoban\obj\Debug\Sokoban.Properties.Resources.resources
+D:\C#代码\Sokoban\obj\Debug\Sokoban.csproj.GenerateResource.cache
+D:\C#代码\Sokoban\bin\Debug\Sokoban.exe.config
+D:\C#代码\Sokoban\bin\Debug\Sokoban.exe
+D:\C#代码\Sokoban\bin\Debug\Sokoban.pdb
+D:\C#代码\Sokoban\obj\Debug\Sokoban.csproj.CoreCompileInputs.cache
+D:\C#代码\Sokoban\obj\Debug\Sokoban.exe
+D:\C#代码\Sokoban\obj\Debug\Sokoban.pdb
+D:\C#代码\Sokoban\obj\Debug\Sokoban.csprojAssemblyReference.cache
+D:\C#代码\Sokoban\obj\Debug\Sokoban.Form2.resources
